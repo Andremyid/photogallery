@@ -15,8 +15,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "andremyid/framework": "dev-master",
-        "andremyid/post": "~0.0"
+        "andremyid/framework": "0.1.*",
+        "andremyid/post": "0.1.*"
     },
     "autoload": {
         "psr-0": {
@@ -26,7 +26,7 @@
     "target-dir": "Andremyid/Photogallery",
     "extra": {
         "branch-alias": {
-            "dev-master": "0.0-dev"
+            "dev-master": "0.1-dev"
         }
     },
     "minimum-stability": "dev"
